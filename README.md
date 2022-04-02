@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anccy
-- 🛸 find me in web3!
+- 🚀 Rocket Plan Started
 
 <!---
 anccy/anccy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
