@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anccy
-- 🌟 Cache me in web3!
+- 🌟 I code for a better world!
 
 <!---
 anccy/anccy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
